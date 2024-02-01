@@ -2,3 +2,4 @@ Nama : Eka Nur Ahmad Romadhoni
 Jurusan : SIJA
 TTL : Ponorogo, 01 Maret 1993
 is_bisa_ngreog : False
+Usia : 18
